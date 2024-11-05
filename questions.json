@@ -1,0 +1,250 @@
+{
+  "heading": "Passive Voice and Verb Tenses",
+  "topics": [
+    {
+      "heading": "Active and Passive Voice <br> (Present Continuous, Past Continuous, Simple Future and Future Perfect)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank appropriately:<br> The committee _______ (discuss) the final budget proposal at this moment, and their decision will be crucial for the upcoming project.",
+          "options": [
+            "is being discussed",
+            "is discussing",
+            "has discussed",
+            "are discussing"
+          ],
+          "answer": 1,
+          "explanation": "In the present continuous active, the structure is 'am/is/are + verb + ing.' Since 'the committee' is a collective noun treated as singular, 'is' should be used. The correct sentence is 'The committee is discussing the final budget proposal at this moment.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank appropriately:<br> _______ the team _______ (not finalize) the report by the end of this week if additional resources are not provided?",
+          "options": [
+            "Won’t / have finalized",
+            "Won’t / finalize",
+            "Will / not be finalizing",
+            "Will / not finalize"
+          ],
+          "answer": 3,
+          "explanation": "In the simple future active interrogative negative, the structure is 'will + subject + not + verb (base form).' The correct sentence is 'Will the team not finalize the report by the end of this week?'"
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank appropriately:<br> The issue _______ (not address) properly by the management team at the moment, despite repeated complaints from staff.",
+          "options": [
+            "is not being addressed",
+            "isn’t addressed",
+            "is not being addressing",
+            "isn’t being addressed"
+          ],
+          "answer": 0,
+          "explanation": "In the present continuous passive, the negative form is 'am/is/are + not + being + past participle.' The correct sentence is 'The issue is not being addressed properly by the management team.'"
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank appropriately:<br> _______ they _______ (not prepare) the report when the auditor arrived?",
+          "options": [
+            "Wasn’t / preparing",
+            "Weren’t / preparing",
+            "Were / not preparing",
+            "Were / not being prepared"
+          ],
+          "answer": 1,
+          "explanation": "In the past continuous active, the interrogative negative form is 'was/were + subject + not + verb + ing.' The correct sentence is 'Weren’t they preparing the report when the auditor arrived?'"
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank appropriately:<br> _______ the project milestones _______ (achieve) by the deadline?",
+          "options": [
+            "Will / have been achieved",
+            "Have / achieved",
+            "Will / be achieved",
+            "Have / been achieving"
+          ],
+          "answer": 0,
+          "explanation": "In the future perfect passive, the interrogative form is 'will + subject + have + been + past participle.' The correct sentence is 'Will the project milestones have been achieved by the deadline?'"
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank appropriately:<br> The researchers _______ (collect) data on climate patterns across the continent, aiming to predict future changes more accurately.",
+          "options": [
+            "are collecting",
+            "is collecting",
+            "will be collecting",
+            "has been collecting"
+          ],
+          "answer": 0,
+          "explanation": "In the present continuous active, the structure is 'am/is/are + verb + ing.' Since 'researchers' is plural, 'are' is used. The correct sentence is 'The researchers are collecting data on climate patterns across the continent.'"
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank appropriately:<br> _______ the necessary changes _______ (not implement) right now to prevent future complications?",
+          "options": [
+            "Aren’t / being implemented",
+            "Isn’t / implemented",
+            "Won’t / be implementing",
+            "Aren’t / implementing"
+          ],
+          "answer": 0,
+          "explanation": "In the present continuous passive, the interrogative negative form is 'am/is/are + subject + not + being + past participle.' The correct sentence is 'Aren’t the necessary changes being implemented right now?'"
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the tense in the following sentence:<br> The old software wasn’t being updated regularly, which led to compatibility issues.",
+          "options": [
+            "Past perfect passive",
+            "Past continuous passive",
+            "Simple past passive",
+            "Present continuous passive"
+          ],
+          "answer": 1,
+          "explanation": "In the past continuous passive, the negative form is 'was/were + not + being + past participle.' The phrase 'wasn’t being updated' shows that the action was not happening during a specific time in the past, leading to problems."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the tense in the following sentence:<br> Will the final assessments be conducted by external auditors before the next quarter?",
+          "options": [
+            "Simple future passive",
+            "Future perfect passive",
+            "Present continuous passive",
+            "Future continuous passive"
+          ],
+          "answer": 0,
+          "explanation": "The simple future passive uses the structure 'will + subject + be + past participle.' The question 'Will the final assessments be conducted' refers to a future action in a passive voice, inquiring about the scheduling of assessments."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the tense in the following sentence:<br> By the time the new policy is rolled out, all feedback will have been addressed thoroughly.",
+          "options": [
+            "Future perfect passive",
+            "Simple future passive",
+            "Present perfect passive",
+            "Past perfect passive"
+          ],
+          "answer": 0,
+          "explanation": "In the future perfect passive, the structure is 'will + have + been + past participle.' The phrase 'will have been addressed' signifies that the action will be completed before a specific future point, demonstrating thorough preparation."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the tense in the following sentence:<br>Weren’t the safety measures being enforced adequately during the last inspection?",
+          "options": [
+            "Simple past passive",
+            "Past perfect passive",
+            "Past continuous passive",
+            "Present continuous passive"
+          ],
+          "answer": 2,
+          "explanation": "In the past continuous passive, the negative interrogative form is 'was/were + subject + not + being + past participle.' The question refers to an action that was expected to occur in the past but was not effectively implemented."
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the tense in the following sentence:<br>The necessary updates will not have been completed by the time of the presentation, risking the project's success.",
+          "options": [
+            "Future perfect passive",
+            "Simple future passive",
+            "Present perfect passive",
+            "Past perfect passive"
+          ],
+          "answer": 0,
+          "explanation": "In the future perfect passive, the structure is 'will + not + have + been + past participle.' It indicates that an expected future action will remain unfinished before a specified time."
+        },
+        {
+          "questionNo": 13,
+          "question": "Spot the error in the following question:<br>The new regulations will have been implementing by the time the audit occurs.",
+          "options": [
+            "The new regulations",
+            "will have been",
+            "implementing",
+            "by the time the audit occurs"
+          ],
+          "answer": 2,
+          "explanation": "The error is in the verb form. The correct form should be 'implemented' to match the passive voice structure. The corrected sentence should read, 'The new regulations will have been implemented by the time the audit occurs.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Spot the error in the following question:<br>All necessary preparations will have been complete by the time the guests arrive.",
+          "options": [
+            "All necessary preparations",
+            "will have been",
+            "complete",
+            "by the time the guests arrive"
+          ],
+          "answer": 2,
+          "explanation": "The error lies in the use of the adjective 'complete' instead of the past participle 'completed.' The corrected sentence should read, 'All necessary preparations will have been completed by the time the guests arrive.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "Spot the error in the following question:<br>The project were being evaluated when the stakeholders arrived.",
+          "options": [
+            "The project",
+            "were",
+            "being evaluated",
+            "when the stakeholders arrived"
+          ],
+          "answer": 1,
+          "explanation": "The error is in the verb form. 'Project' is singular, so the correct auxiliary verb should be 'was' instead of 'were.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "Spot the error in the following question:<br>The new website are being designed by the development team right now.",
+          "options": [
+            "The new website",
+            "are",
+            "being designed",
+            "right now"
+          ],
+          "answer": 1,
+          "explanation": "The error is in the subject-verb agreement. 'Website' is singular, so the verb should be 'is' instead of 'are.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct form of verb in the following sentence:<br>The groundbreaking discoveries ___ being showcased at the annual science fair this weekend.",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "will"
+          ],
+          "answer": 1,
+          "explanation": "The subject 'discoveries' is plural, so 'are' is the correct form in the present continuous passive."
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct form of verb in the following sentence:<br>The archaeological findings ___ not being verified when the site was shut down due to weather conditions.",
+          "options": [
+            "were",
+            "is",
+            "was",
+            "have been"
+          ],
+          "answer": 0,
+          "explanation": "In the past continuous passive negative form, 'were not' is used with the plural subject 'findings.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct form of verb in the following sentence:<br>The experimental results ___ not be published until further verification is completed.",
+          "options": [
+            "were",
+            "will",
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "In the simple future passive negative form, 'will not' is used to negate the future action."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct form of verb in the following sentence:<br>The exhibition ___ being organized by the museum staff in preparation for the grand opening.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has been"
+          ],
+          "answer": 0,
+          "explanation": "The subject 'exhibition' is singular, so 'is' is the correct form in the present continuous passive."
+        }
+      ]
+    }
+  ]
+}
